@@ -1,6 +1,6 @@
 # Data Science Portfolio - Anchal Sekhri
 
-### This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. 
+### This Portfolio is a compilation of all the Data Science and Data Analysis projects that I have done for academic, self-learning purposes. This portfolio also contains my skills, and certificates. 
 ### It is updated on the regular basis.
 
 #### 📧 Email: anchal.sekhri.31@gmail.com
@@ -9,7 +9,7 @@
 ## 📋 Table of Contents
 
 
-- [Python](#python)
+- [Projects](#projects)
 - [Data Analysis](#DataAnalysis)
 - [Machine Learning](#MachineLearning)
 - [SQL](#sql)
@@ -19,7 +19,7 @@
 - [Completed Course and Certification](#CompletedCourseandCertification)
 
 
-# Python
+# Projects
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
