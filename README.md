@@ -36,6 +36,10 @@
 #### [SQL](https://github.com/sekhrianchal6/interview-query-sql-questions) : This repository contains codes of online SQL challenges (From Interview Query) solved by me.
 #### [Data Science]() : This repository contains codes of online Data Science challenges (From Kaggle) solved by me.
 
+- [ Prediction of spam with Bayesian model](https://www.kaggle.com/code/anchalsekhrii/spam-prediction)
+- [Binary Prediction of Smoker Status using Bio-Signals](https://github.com/sekhrianchal6/Binary-Prediction-of-Smoker-Status-using-Bio-Signals/blob/main/Binary%20Prediction%20of%20Smoker%20Status%20using%20Bio-Signals.ipynb)
+- [Binary Classification with a Bank Churn Dataset](https://www.kaggle.com/code/anchalsekhrii/churn-classification)
+
 ***
 # Certifications
 
