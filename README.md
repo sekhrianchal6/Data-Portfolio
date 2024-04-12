@@ -10,13 +10,15 @@
 
 
 - [Projects](#projects)
+- [Micro Projects](#MicroProjects)
+- [Challenges](#Challenges)
+- [Completed Course and Certification](#CompletedCourseandCertification)
+  
 - [Data Analysis](#DataAnalysis)
 - [Machine Learning](#MachineLearning)
 - [SQL](#sql)
 - [Dashboard](#Dashboard)
 - [Tableau](#tableau)
-- [Looker](#looker)
-- [Completed Course and Certification](#CompletedCourseandCertification)
 
 
 # Projects
@@ -41,7 +43,7 @@
 - [Binary Classification with a Bank Churn Dataset](https://www.kaggle.com/code/anchalsekhrii/churn-classification)
 
 ***
-# Certifications
+# Completed Course and Certifications
 
 ### IBM Data science Professional Certificate
 - [Data Analysis with Python](https://github.com/sekhrianchal6/Certificates/blob/main/IBM%20Data%20science%20Professional%20Certificate/Data%20Analysis%20with%20python.pdf)
