@@ -6,7 +6,13 @@
 #### 📧 Email: anchal.sekhri.31@gmail.com
 #### 🌐 LinkedIn: https://www.linkedin.com/in/anchal-sekhri/
 
-## 📋 Table of Contents
+### Core Competencies
+
+- **Methodologies**: Machine Learning, Deep Learning, Natural Language Processing, Statistics,A/B Testing, Data Analysis
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib) SQL
+- **Tools**: MySQL, MS Excel, JupyterLab, Git, Google Colab
+
+### 📋 Table of Contents
 
 
 - [Projects](#projects)
