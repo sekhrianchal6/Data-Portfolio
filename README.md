@@ -43,18 +43,19 @@
 ***
 # Certifications
 
-### IBM
-- [Data Analysis with Python](https://github.com/sekhrianchal6/Certificates/blob/main/Data%20Analysis%20with%20python.pdf)
-- [Data Science Methodology](https://github.com/sekhrianchal6/Certificates/blob/main/Data%20Science%20Methodology.pdf)
-- [Databases and SQL for Data Science with Python](https://github.com/sekhrianchal6/Certificates/blob/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf)
-- [Python for Data Science, AI & Development](https://github.com/sekhrianchal6/Certificates/blob/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
-- [What is Data Science](https://github.com/sekhrianchal6/Certificates/blob/main/What%20is%20Data%20Science.pdf)
-- [Tools for Data Science](https://github.com/sekhrianchal6/Certificates/blob/main/Tools%20for%20Data%20Science.pdf)
-### Google Analytics
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+### IBM Data science Professional Certificate
+- [Data Analysis with Python](https://github.com/sekhrianchal6/Certificates/blob/main/IBM%20Data%20science%20Professional%20Certificate/Data%20Analysis%20with%20python.pdf)
+- [Data Science Methodology](https://github.com/sekhrianchal6/Certificates/blob/main/IBM%20Data%20science%20Professional%20Certificate/Data%20Science%20Methodology.pdf)
+- [Databases and SQL for Data Science with Python](https://github.com/sekhrianchal6/Certificates/blob/main/IBM%20Data%20science%20Professional%20Certificate/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf)
+- [Python for Data Science, AI & Development](https://github.com/sekhrianchal6/Certificates/blob/main/IBM%20Data%20science%20Professional%20Certificate/Python%20for%20Data%20Science%2C%20AI%20%26%20Development.pdf)
+- [What is Data Science](https://github.com/sekhrianchal6/Certificates/blob/main/IBM%20Data%20science%20Professional%20Certificate/What%20is%20Data%20Science.pdf)
+- [Tools for Data Science](https://github.com/sekhrianchal6/Certificates/blob/main/IBM%20Data%20science%20Professional%20Certificate/Tools%20for%20Data%20Science.pdf)
+  
+### Google Data Analytics Professional Certificate
+- [Analyze Data to Answer Questions](https://github.com/sekhrianchal6/Certificates/blob/main/Google%20Data%20Analytics%20Professional%20Certificate/Analyze%20Data%20to%20Answer%20Questions.pdf)
+- [Ask Questions to Make Data-Driven Decisions](https://github.com/sekhrianchal6/Certificates/blob/main/Google%20Data%20Analytics%20Professional%20Certificate/Ask%20Questions%20to%20Make%20Data-Driven%20Decisions.pdf)
+- [Foundations Data Everywhere](https://github.com/sekhrianchal6/Certificates/blob/main/Google%20Data%20Analytics%20Professional%20Certificate/Foundations%20Data%20Everywhere.pdf)
+- [Prepare Data for Exploration](https://github.com/sekhrianchal6/Certificates/blob/main/Google%20Data%20Analytics%20Professional%20Certificate/Prepare%20Data%20for%20Exploration.pdf)
+- [Process Data from Dirty to Clean](https://github.com/sekhrianchal6/Certificates/blob/main/Google%20Data%20Analytics%20Professional%20Certificate/Process%20Data%20from%20Dirty%20to%20Clean.pdf)
+- [Share Data Through the Art of Visualization](https://github.com/sekhrianchal6/Certificates/blob/main/Google%20Data%20Analytics%20Professional%20Certificate/Share%20Data%20Through%20the%20Art%20of%20Visualization.pdf)
 - 
