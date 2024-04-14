@@ -1,6 +1,6 @@
 # Data Science Portfolio - Anchal Sekhri
 
-### This Portfolio is a compilation of all the Data Science and Data Analysis projects that I have done for academic, self-learning purposes. This portfolio also contains my skills and certificates. 
+### This Portfolio is a compilation of all the Data Science projects that I have done for academic, self-learning purposes. This portfolio also contains my skills and certificates. 
 ### It is updated on the regular basis.
 
 #### 📧 Email: anchal.sekhri.31@gmail.com
@@ -9,7 +9,7 @@
 ### Core Competencies
 
 - **Methodologies**: Machine Learning, Deep Learning, Natural Language Processing, Statistics,A/B Testing, Data Analysis
-- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib) SQL
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL
 - **Tools**: MySQL, MS Excel, JupyterLab, Git, Google Colab
 
 ### 📋 Table of Contents
@@ -20,11 +20,6 @@
 - [Challenges](#Challenges)
 - [Completed Course and Certification](#CompletedCourseandCertification)
   
-- [Data Analysis](#DataAnalysis)
-- [Machine Learning](#MachineLearning)
-- [SQL](#sql)
-- [Dashboard](#Dashboard)
-- [Tableau](#tableau)
 
 
 # Projects
@@ -42,11 +37,12 @@
 
 # Challenges
 #### [SQL](https://github.com/sekhrianchal6/interview-query-sql-questions) : This repository contains codes of online SQL challenges (From Interview Query) solved by me.
-#### [Data Science]() : This repository contains codes of online Data Science challenges (From Kaggle) solved by me.
+#### [Data Science]() : This repository contains codes of online Data Science challenges (From [Kaggle](https://www.kaggle.com/anchalsekhrii)) solved by me.
 
 - [ Prediction of spam with Bayesian model](https://www.kaggle.com/code/anchalsekhrii/spam-prediction)
 - [Binary Prediction of Smoker Status using Bio-Signals](https://github.com/sekhrianchal6/Binary-Prediction-of-Smoker-Status-using-Bio-Signals/blob/main/Binary%20Prediction%20of%20Smoker%20Status%20using%20Bio-Signals.ipynb)
 - [Binary Classification with a Bank Churn Dataset](https://www.kaggle.com/code/anchalsekhrii/churn-classification)
+- [Regression with an Abalone Dataset](https://www.kaggle.com/code/anchalsekhrii/regression-abalone-dataset)
 
 ***
 # Completed Course and Certifications
