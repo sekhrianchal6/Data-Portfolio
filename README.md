@@ -1,6 +1,6 @@
 # Data Science Portfolio - Anchal Sekhri
 
-### This Portfolio is a compilation of all the Data Science projects that I have done for academic, self-learning purposes. This portfolio also contains my skills and certificates. 
+### This Portfolio is a compilation of all the Data Science projects that I have done for academic, self-learning purposes. This portfolio also contains my skills, challenges and certificates. 
 ### It is updated on the regular basis.
 
 #### 📧 Email: anchal.sekhri.31@gmail.com
@@ -14,13 +14,10 @@
 
 ### 📋 Table of Contents
 
-
 - [Projects](#projects)
-- [Micro Projects](#MicroProjects)
 - [Challenges](#Challenges)
 - [Completed Course and Certification](#CompletedCourseandCertification)
   
-
 
 # Projects
 
@@ -32,8 +29,6 @@
 |[Maternal health risk prediction](https://github.com/sekhrianchal6/Maternal-health-risk-prediction/blob/main/Arima_Final%20-%20update.ipynb)| Data Analysis & Classification Algorithms|Transform and Analysed the data and Identified the relevant features that can help in prediction. Applied appropriate classification machine learning algorithms and trained models are evaluated using metrics such as accuracy, precision, recall, F1-score etc.|
 ***
 
-# Micro Projects
-***
 
 # Challenges
 #### [SQL](https://github.com/sekhrianchal6/interview-query-sql-questions) : This repository contains codes of online SQL challenges (From Interview Query) solved by me.
